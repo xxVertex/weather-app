@@ -22,7 +22,7 @@ This app uses:
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/xxVertex/weather-app.git
 cd weather-app
 npm install
 npm start
